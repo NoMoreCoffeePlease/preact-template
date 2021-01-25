@@ -1,0 +1,73 @@
+.dark-theme {
+    --white: #ffffff;
+    --accent: #00daff;
+    --accentSecondary: #00515e;
+    --text: #e0e0e0;
+    --textSecondary: #b1b1b1;
+    --textTertiary: #6a6a6a;
+
+    --positive: #00e676;
+    --negative: #e91e63;
+    --error: #ffab91;
+    --warning: #f2c94c;
+
+    --vcardBackground: #28282a;
+    --appBackground: #ffffff;
+    --bottomSheetBackground: #1a1a1a;
+    --overlayBackground: #00000090;
+
+    --settingsDivider: #000000;
+    --inputBackground: #4e4e53;
+    --disabledButton: #b1b1b1;
+
+    --gradientLight: #121212;
+    --gradientDark: #000000;
+
+    --labelUndelegate: #ffab91;
+    --labelRedelegate: #e91e63;
+    --labelReward: #00e676;
+
+    --webAppBackground: #212122;
+    --topStatsCard: #28282a;
+    --webGradientOuter: #011425;
+    --webGradientInner: #02253d;
+    --loadingText: #e6e4ea;
+    --separator: #192a3b;
+}
+
+.light-theme {
+    --white: #ffffff;
+    --accent: #ffffff;
+    --accentSecondary: #ffffff;
+    --text: #e0e0e0;
+    --textSecondary: #b1b1b1;
+    --textTertiary: #6a6a6a;
+
+    --positive: #00e676;
+    --negative: #e91e63;
+    --error: #ffab91;
+    --warning: #f2c94c;
+
+    --vcardBackground: #ffffff;
+    --appBackground: #ffffff;
+    --bottomSheetBackground: #ffffff;
+    --overlayBackground: #00000090;
+
+    --settingsDivider: #ffffff;
+    --inputBackground: #4e4e53;
+    --disabledButton: #b1b1b1;
+
+    --gradientLight: #121212;
+    --gradientDark: #000000;
+
+    --labelUndelegate: #ffab91;
+    --labelRedelegate: #e91e63;
+    --labelReward: #00e676;
+
+    --webAppBackground: #212122;
+    --topStatsCard: #28282a;
+    --webGradientOuter: #011425;
+    --webGradientInner: #02253d;
+    --loadingText: #e6e4ea;
+    --separator: #192a3b;
+}
