@@ -4,7 +4,7 @@ Preact template that is a starter for any project, containing:<br/>
 -Preact init.<br/>
 -Typescript.<br/>
 -Internationalization<br/>
--Redux
+-Redux<br/>
 -Theming<br/>
 -Basic folder structure<br/>
 -Bootstrap<br/>
